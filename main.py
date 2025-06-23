@@ -1,7 +1,7 @@
 from time import sleep
 print("Welcome!")
 sleep(0.5)
-termsofconditions = "Here are the terms and conditions"
+termsofconditions = "Here are the terms and conditions. 1: "
 
 play = input("Would u like to play rock paper scissors?(yes/no): ")
 
